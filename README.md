@@ -19,10 +19,3 @@ Each task demonstrates core OS concepts like process management, system calls, f
 
 
 ---
-
-## 📝 How to Run the Programs
-
-1. **Clone the repository:**
-   ```bash
-   git clone git@github.com:Anjaliahlawat14/OS_LAB_ASSIGN.git
-   cd OS_LAB_ASSIGN
