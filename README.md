@@ -16,7 +16,7 @@ Each task demonstrates core OS concepts like process management, system calls, f
 | `task5.py`                 | Simulates **CPU scheduling algorithms** such as FCFS, SJF, or Round Robin.         |
 | `ASSIGNMENT1.OS.pdf`       | PDF submission of Assignment 1 (theory + practical write-up).                       |
 
-> ⚠️ The descriptions above are placeholders — adjust them to your actual tasks if needed.
+
 
 ---
 
