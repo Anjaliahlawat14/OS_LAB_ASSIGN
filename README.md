@@ -5,7 +5,7 @@ Each task demonstrates core OS concepts like process management, system calls, f
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 | File/Folder                | Description                                                                 |
 |----------------------------|-----------------------------------------------------------------------------|
@@ -17,5 +17,15 @@ Each task demonstrates core OS concepts like process management, system calls, f
 | `ASSIGNMENT1.OS.pdf`       | PDF submission of Assignment 1 (theory + practical write-up).                       |
 
 
+### **Requirements**
+- Python 3.x
+- Linux environment (required for `os.fork()` and `/proc` inspection)
+- Basic knowledge of Linux commands
+
+### **How to Run**
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd OS_LAB_ASSIGN
 
 ---
