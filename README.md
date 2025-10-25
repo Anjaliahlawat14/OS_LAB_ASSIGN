@@ -28,6 +28,7 @@ Each task demonstrates core OS concepts like process management, system calls, f
 
 ## **How to Run**
 
+```bash
 ### Assignment 1
 cd OS_LAB/Assignment1
 python3 task1.py
